@@ -9,7 +9,7 @@ class LoginPage extends Component {
           <input
             type="text"
             name="email"
-            id="password"
+            id="email"
           />
         </label>
         <label htmlFor="password">
